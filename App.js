@@ -20,4 +20,5 @@ const myStyle = StyleSheet.create({
     marginTop: 20,
     backgroundColor: '#817a7aff'
   }
+  
 })
